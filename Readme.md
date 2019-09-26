@@ -1,8 +1,8 @@
-Course Name: Python for Data Science and Machine Learning Bootcamp.
+__Course Name__: Python for Data Science and Machine Learning Bootcamp.
 
-Url: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+__Url__: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
-Instructor: Jose Portilla - Head of Data Science, Pierian Data Inc.
+__Instructor__: Jose Portilla - Head of Data Science, Pierian Data Inc.
 
 Topics Covered:
 ---------------
